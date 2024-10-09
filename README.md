@@ -21,8 +21,7 @@ This repository features a sleek and user-friendly login page developed with Rea
 
 # Getting Started
 To get started with this project, follow the steps below:
-
-1.Ensure that Node.js and npm are installed on your machine. You can download and install them from Node.js. Remember to configure the necessary environment variables after installation.
-2.Clone the repository.
-3.Open the cloned project folder in your preferred terminal and run: npm install to install all dependencies.
-4.Once the installation is complete, run: npm run dev to start the development server.
+1. Ensure that Node.js and npm are installed on your machine. You can download and install them from Node.js. Remember to configure the necessary environment variables after installation.
+2. Clone the repository.
+3. Open the cloned project folder in your preferred terminal and run: npm install to install all dependencies.
+4. Once the installation is complete, run: npm run dev to start the development server.
